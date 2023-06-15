@@ -62,8 +62,9 @@
             this.editarRemoverToolStripMenuItem,
             this.gerenciarEstudantesToolStripMenuItem,
             this.imprimirToolStripMenuItem});
+            this.estudanteToolStripMenuItem.Image = global::sistema_gestao_estudantes.Properties.Resources.brunodiferente;
             this.estudanteToolStripMenuItem.Name = "estudanteToolStripMenuItem";
-            this.estudanteToolStripMenuItem.Size = new System.Drawing.Size(71, 20);
+            this.estudanteToolStripMenuItem.Size = new System.Drawing.Size(87, 20);
             this.estudanteToolStripMenuItem.Text = "Estudante";
             // 
             // inserirEstudantesToolStripMenuItem
